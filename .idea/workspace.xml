@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fd47d95-4aff-4333-8015-e47f65ef7308" name="Changes" comment="ContainDuplicate_217">
-      <change afterPath="$PROJECT_DIR$/src/string/ValidAnagram_242.java" afterDir="false" />
+    <list default="true" id="6fd47d95-4aff-4333-8015-e47f65ef7308" name="Changes" comment="two sum">
+      <change afterPath="$PROJECT_DIR$/src/string/Anagram_49.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +43,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Anagram_49.executor": "Debug",
     "Application.ContainDuplicate_217.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.TwoSum_1.executor": "Run",
     "Application.ValidAnagram_242.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -52,7 +54,20 @@
     "onboarding.tips.debug.path": "/Users/shivarajbiradar/Desktop/git/dsa/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ValidAnagram_242">
+  <component name="RunManager" selected="Application.Anagram_49">
+    <configuration name="Anagram_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.Anagram_49" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ContainDuplicate_217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string.ContainDuplicate_217" />
       <module name="dsa" />
@@ -73,6 +88,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoSum_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.TwoSum_1" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValidAnagram_242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string.ValidAnagram_242" />
       <module name="dsa" />
@@ -88,6 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Anagram_49" />
+        <item itemvalue="Application.TwoSum_1" />
         <item itemvalue="Application.ValidAnagram_242" />
         <item itemvalue="Application.ContainDuplicate_217" />
         <item itemvalue="Application.Main" />
@@ -127,13 +157,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738261227700</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="two sum">
+      <option name="closed" value="true" />
+      <created>1738264444297</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738264444297</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="ContainDuplicate_217" />
-    <option name="LAST_COMMIT_MESSAGE" value="ContainDuplicate_217" />
+    <MESSAGE value="valid anagram" />
+    <MESSAGE value="two sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="two sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -142,6 +182,16 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>6</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/Anagram_49.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/Anagram_49.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
