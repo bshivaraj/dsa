@@ -4,8 +4,8 @@ import java.util.*;
 
 public class Anagram_49 {
     public static void main(String[] args) {
-        String[] strs= {"eat","tea","tan","ate","nat","bat"};
-        List<List<String>> output=getAnagram(strs);
+        String[] stars= {"eat","tea","tan","ate","nat","bat"};
+        List<List<String>> output=getAnagram(stars);
         System.out.println(output);
     }
 
