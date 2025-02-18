@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fd47d95-4aff-4333-8015-e47f65ef7308" name="Changes" comment="new problems">
-      <change afterPath="$PROJECT_DIR$/src/dynamic/JumpGame_55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/Test1.java" afterDir="false" />
+    <list default="true" id="6fd47d95-4aff-4333-8015-e47f65ef7308" name="Changes" comment="jump problem">
+      <change afterPath="$PROJECT_DIR$/src/bfs/Bfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dfs/Dfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/Greddy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modifiedbinarysearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slidingwindow/Slidingwindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subset/SubSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topologicalgraphsort/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twopointer/TwoPointer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -202,7 +208,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739247312246</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="jump problem">
+      <option name="closed" value="true" />
+      <created>1739741001065</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739741001065</updated>
+    </task>
+    <task id="LOCAL-00009" summary="jump problem">
+      <option name="closed" value="true" />
+      <created>1739741133576</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739741133576</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -212,7 +234,8 @@
     <MESSAGE value="two sum" />
     <MESSAGE value="group of Anagram_49" />
     <MESSAGE value="new problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="new problems" />
+    <MESSAGE value="jump problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="jump problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
