@@ -5,7 +5,6 @@ public class Singlton {
 
          Singlton obj = null;
          int count=0;
-         Counter counter=new Counter();
 
          Singlton s1=getInstance(obj,count);
          Singlton s2=getInstance(obj,count);
@@ -25,6 +24,4 @@ public class Singlton {
         return obj;
     }
 }
-class Counter{
 
-}

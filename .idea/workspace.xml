@@ -5,15 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fd47d95-4aff-4333-8015-e47f65ef7308" name="Changes" comment="jump problem">
-      <change afterPath="$PROJECT_DIR$/src/bfs/Bfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dfs/Dfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/Greddy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modifiedbinarysearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/slidingwindow/Slidingwindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subset/SubSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topologicalgraphsort/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twopointer/TwoPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/StreamAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/BinarySearchImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Bubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/ConvertString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/CorporateFlightBooking_1109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/HouseRobber_198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/InserationSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/KadensAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/KthLargestElement_215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LetterTiles_1079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Majority_169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/MaxLengthOfWord_318.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/MaximumFrequencyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/MoveNonZeroNumsEnd_283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/PeakElement_162.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Permutation_40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/RemoveKthDigit_402.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/RotateArray_189.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/StringPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/SubArraySUm_560.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/SubString_1876.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/WordSearch_79.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bfs/Bfs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/Singlton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designpattern/Singlton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dfs/Dfs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dynamic/JumpGame_55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/JumpGame_55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/greedy/Greddy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiedbinarysearch/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numbers/CarFleet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/CarFleet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numbers/NumberOfBadPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/NumberOfBadPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/slidingwindow/Slidingwindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/Anagram_49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/Anagram_49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/ContainDuplicate_217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/ContainDuplicate_217.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/TwoSum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/TwoSum_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/ValidAnagram_242.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/ValidAnagram_242.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/subset/SubSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topkelement/NRopeWithMinimumCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/NRopeWithMinimumCost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topkelement/TopKthElement_347.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/TopKthElement_347.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topologicalgraphsort/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twopointer/TwoPointer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +76,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2sMLSQugEpE5fafO9FptYEHF70v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,30 +90,62 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Anagram.executor": "Run",
     "Application.Anagram_49.executor": "Debug",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BinarySearchImplementation.executor": "Run",
+    "Application.Bubblesort.executor": "Debug",
     "Application.ContainDuplicate_217.executor": "Run",
+    "Application.ConvertString.executor": "Run",
+    "Application.CorporateFlightBooking_1109.executor": "Run",
+    "Application.DeadLock.executor": "Run",
+    "Application.HouseRobber_198.executor": "Run",
+    "Application.InserationSort.executor": "Debug",
     "Application.JumpGame_55.executor": "Run",
+    "Application.KadensAlgo.executor": "Debug",
+    "Application.KthLargestElement_215.executor": "Run",
+    "Application.LetterTiles_1079.executor": "Debug",
     "Application.Main.executor": "Run",
+    "Application.Majority_169.executor": "Run",
+    "Application.MaximumFrequencyArray.executor": "Run",
+    "Application.MorresAlgo.executor": "Run",
+    "Application.MoveNonZeroNumsEnd_283.executor": "Run",
+    "Application.MyLinkedList.executor": "Debug",
     "Application.NumberOfBadPairs.executor": "Debug",
+    "Application.PeakElement_162.executor": "Run",
+    "Application.PeakInteger.executor": "Run",
+    "Application.Permutation_40.executor": "Run",
+    "Application.Polymorphisam.executor": "Run",
+    "Application.RemoveKthDegit_402.executor": "Run",
+    "Application.RemoveKthDigit_402.executor": "Debug",
+    "Application.ReverseInteger.executor": "Debug",
+    "Application.ReverseLinkedList (1).executor": "Debug",
+    "Application.ReverseLinkedList.executor": "Run",
+    "Application.RotateArray_189.executor": "Run",
     "Application.Singlton.executor": "Debug",
+    "Application.StreamAPI (1).executor": "Run",
+    "Application.StreamAPI (2).executor": "Run",
+    "Application.StreamAPI.executor": "Run",
+    "Application.SubString_1876.executor": "Run",
     "Application.Test1.executor": "Run",
     "Application.TopKthElement_347.executor": "Debug",
     "Application.TwoSum_1.executor": "Run",
     "Application.ValidAnagram_242.executor": "Run",
+    "Application.WordSearch_79.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/shivarajbiradar/Desktop/git/dsa/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/shivarajbiradar/Desktop/git/dsa/spring/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.JumpGame_55">
-    <configuration name="Anagram_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.Anagram_49" />
+  <component name="RunManager" selected="Application.CorporateFlightBooking_1109">
+    <configuration name="CorporateFlightBooking_1109" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.CorporateFlightBooking_1109" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JumpGame_55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dynamic.JumpGame_55" />
+    <configuration name="KthLargestElement_215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.KthLargestElement_215" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dynamic.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfBadPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="numbers.NumberOfBadPairs" />
+    <configuration name="MoveNonZeroNumsEnd_283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.MoveNonZeroNumsEnd_283" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="topkelement.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Singlton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpattern.Singlton" />
+    <configuration name="RemoveKthDigit_402" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.RemoveKthDigit_402" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpattern.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.Test1" />
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ReverseLinkedList" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JumpGame_55" />
-        <item itemvalue="Application.Anagram_49" />
-        <item itemvalue="Application.NumberOfBadPairs" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Singlton" />
+        <item itemvalue="Application.CorporateFlightBooking_1109" />
+        <item itemvalue="Application.MoveNonZeroNumsEnd_283" />
+        <item itemvalue="Application.ReverseLinkedList" />
+        <item itemvalue="Application.RemoveKthDigit_402" />
+        <item itemvalue="Application.KthLargestElement_215" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +296,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739741133576</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="jump problem">
+      <option name="closed" value="true" />
+      <created>1739741348526</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739741348526</updated>
+    </task>
+    <task id="LOCAL-00011" summary="jump problem">
+      <option name="closed" value="true" />
+      <created>1739906409160</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739906409160</updated>
+    </task>
+    <task id="LOCAL-00012" summary="jump problem">
+      <option name="closed" value="true" />
+      <created>1739906423566</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739906423566</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -246,79 +342,267 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/string/Anagram_49.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/Anagram_49.java</url>
           <line>23</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/string/Anagram_49.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/Anagram_49.java</url>
           <line>8</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/topkelement/TopKthElement_347.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/TopKthElement_347.java</url>
           <line>51</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/topkelement/TopKthElement_347.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/TopKthElement_347.java</url>
           <line>37</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/topkelement/TopKthElement_347.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/TopKthElement_347.java</url>
           <line>43</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/topkelement/TopKthElement_347.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/TopKthElement_347.java</url>
           <line>15</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/designpattern/Singlton.java</url>
-          <line>20</line>
+          <line>19</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/designpattern/Singlton.java</url>
-          <line>24</line>
+          <line>23</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/designpattern/Singlton.java</url>
-          <line>15</line>
+          <line>14</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/numbers/NumberOfBadPairs.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/NumberOfBadPairs.java</url>
           <line>8</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/numbers/NumberOfBadPairs.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/NumberOfBadPairs.java</url>
           <line>25</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/numbers/NumberOfBadPairs.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/NumberOfBadPairs.java</url>
           <line>17</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/numbers/NumberOfBadPairs.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/NumberOfBadPairs.java</url>
           <line>21</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/numbers/NumberOfBadPairs.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/NumberOfBadPairs.java</url>
           <line>19</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dynamic/JumpGame_55.java</url>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/JumpGame_55.java</url>
           <line>16</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/ConvertString.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/ConvertString.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/ConvertString.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/ConvertString.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/LetterTiles_1079.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/LetterTiles_1079.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/ReverseLinkedList.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/spring/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/JumpGame_55.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/JumpGame_55.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/ReverseLinkedList.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/ReverseLinkedList.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/RotateArray_189.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/RotateArray_189.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/RotateArray_189.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/RotateArray_189.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/RotateArray_189.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/BinarySearchImplementation.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/BinarySearch.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/BinarySearch.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/BinarySearch.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/BinarySearch.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Bubblesort.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Bubblesort.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/InserationSort.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/InserationSort.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/InserationSort.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Majority_169.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/RemoveKthDigit_402.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/RemoveKthDigit_402.java</url>
+          <line>14</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/RemoveKthDigit_402.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/KthLargestElement_215.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/KthLargestElement_215.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/KthLargestElement_215.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/RemoveKthDigit_402.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/RemoveKthDigit_402.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/RemoveKthDigit_402.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
